@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Cáp, sạc &#8211; PHHUNG NEWS</title>
+	<atom:link href="http://localhost/myproject/wordpress/danh-muc-san-pham/phu%CC%A3-kie%CC%A3n-di-do%CC%A3ng/cap-sa%CC%A3c/feed/" rel="self" type="application/rss+xml" />
+	<link>https://phshung.github.io/hungwordpress</link>
+	<description></description>
+	<lastBuildDate>Mon, 20 Sep 2021 00:46:38 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>Cáp, sạc</title>
+		<link></link>
+		
+		<dc:creator><![CDATA[phamsihung]]></dc:creator>
+		<pubDate>Mon, 20 Sep 2021 00:46:38 +0000</pubDate>
+				<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[Hiển thị tất cả 3 kết quả Thứ tự mặc định Thứ tự theo mức độ phổ biến Thứ tự theo điểm đánh giá Mới nhất Thứ tự theo giá: thấp đến cao Thứ tự theo giá: cao xuống thấp Cáp Type C &#8211; Type C 1 m Apple Trắng 590,000&#160;&#8363; Thêm vào giỏ hàng [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div class="woocommerce columns-4 "><div class="woocommerce-notices-wrapper"></div><p class="woocommerce-result-count">
+	Hiển thị tất cả 3 kết quả</p>
+<form class="woocommerce-ordering" method="get">
+	<select name="orderby" class="orderby" aria-label="Đơn hàng của cửa hàng">
+					<option value="menu_order"  selected='selected'>Thứ tự mặc định</option>
+					<option value="popularity" >Thứ tự theo mức độ phổ biến</option>
+					<option value="rating" >Thứ tự theo điểm đánh giá</option>
+					<option value="date" >Mới nhất</option>
+					<option value="price" >Thứ tự theo giá: thấp đến cao</option>
+					<option value="price-desc" >Thứ tự theo giá: cao xuống thấp</option>
+			</select>
+	<input type="hidden" name="paged" value="1" />
+	</form>
+<ul class="products columns-4">
+<li class="product type-product post-239 status-publish first instock product_cat-cap-sac product_cat-phu-kien-di-dong has-post-thumbnail shipping-taxable purchasable product-type-simple">
+	<a href="https://phshung.github.io/hungwordpress/sản%20phẩm/cap-type-c-type-c-1-m-apple-trang/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://phshung.github.io/hungwordpress/wp-content/uploads/2021/09/C-to-c.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /><h2 class="woocommerce-loop-product__title">Cáp Type C &#8211; Type C 1 m Apple Trắng</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>590,000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
+</a><a href="https://phshung.github.io/hungwordpress/sản%20phẩm/cap-type-c-type-c-1-m-apple-trang/?add-to-cart=239" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="239" data-product_sku="" aria-label="Thêm &ldquo;Cáp Type C - Type C 1 m Apple Trắng&rdquo; vào giỏ hàng" rel="nofollow">Thêm vào giỏ hàng</a></li>
+<li class="product type-product post-234 status-publish instock product_cat-cap-sac product_cat-phu-kien-di-dong has-post-thumbnail shipping-taxable purchasable product-type-simple">
+	<a href="https://phshung.github.io/hungwordpress/sản%20phẩm/cap-type-c-lightning-1m-apple-trang/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://phshung.github.io/hungwordpress/wp-content/uploads/2021/09/capclightning.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /><h2 class="woocommerce-loop-product__title">Cáp Type C- Lightning 1m Apple Trắng</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>590,000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
+</a><a href="https://phshung.github.io/hungwordpress/sản%20phẩm/cap-type-c-lightning-1m-apple-trang/?add-to-cart=234" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="234" data-product_sku="" aria-label="Thêm &ldquo;Cáp Type C- Lightning 1m Apple Trắng&rdquo; vào giỏ hàng" rel="nofollow">Thêm vào giỏ hàng</a></li>
+<li class="product type-product post-228 status-publish instock product_cat-cap-sac product_cat-phu-kien-di-dong has-post-thumbnail shipping-taxable purchasable product-type-simple">
+	<a href="https://phshung.github.io/hungwordpress/sản%20phẩm/sac-type-c-20w-cho-iphone-ipad-trang/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://phshung.github.io/hungwordpress/wp-content/uploads/2021/09/sac20w.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /><h2 class="woocommerce-loop-product__title">Sạc Type C 20W cho iPhone/iPad Trắng</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>690,000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
+</a><a href="https://phshung.github.io/hungwordpress/sản%20phẩm/sac-type-c-20w-cho-iphone-ipad-trang/?add-to-cart=228" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="228" data-product_sku="MHJE3" aria-label="Thêm &ldquo;Sạc Type C 20W cho iPhone/iPad Trắng&rdquo; vào giỏ hàng" rel="nofollow">Thêm vào giỏ hàng</a></li>
+</ul>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

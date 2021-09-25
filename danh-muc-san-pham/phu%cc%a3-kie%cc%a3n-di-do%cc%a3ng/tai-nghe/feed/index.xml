@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Tai nghe &#8211; PHSHUNG</title>
+	<atom:link href="http://localhost/myproject/wordpress/danh-muc-san-pham/phu%CC%A3-kie%CC%A3n-di-do%CC%A3ng/tai-nghe/feed/" rel="self" type="application/rss+xml" />
+	<link>https://phshung.github.io/hungwordpress</link>
+	<description></description>
+	<lastBuildDate>Mon, 20 Sep 2021 00:46:38 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>Tai nghe</title>
+		<link></link>
+		
+		<dc:creator><![CDATA[phamsihung]]></dc:creator>
+		<pubDate>Mon, 20 Sep 2021 00:46:38 +0000</pubDate>
+				<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[Hiển thị kết quả duy nhất Thứ tự mặc định Thứ tự theo mức độ phổ biến Thứ tự theo điểm đánh giá Mới nhất Thứ tự theo giá: thấp đến cao Thứ tự theo giá: cao xuống thấp Tai nghe Bluetooth True Wireless Beats Studio Buds 3,990,000&#160;&#8363; Lựa chọn các tùy chọn]]></description>
+										<content:encoded><![CDATA[<div class="woocommerce columns-3 "><div class="woocommerce-notices-wrapper"></div><p class="woocommerce-result-count">
+	Hiển thị kết quả duy nhất</p>
+<form class="woocommerce-ordering" method="get">
+	<select name="orderby" class="orderby" aria-label="Đơn hàng của cửa hàng">
+					<option value="menu_order"  selected='selected'>Thứ tự mặc định</option>
+					<option value="popularity" >Thứ tự theo mức độ phổ biến</option>
+					<option value="rating" >Thứ tự theo điểm đánh giá</option>
+					<option value="date" >Mới nhất</option>
+					<option value="price" >Thứ tự theo giá: thấp đến cao</option>
+					<option value="price-desc" >Thứ tự theo giá: cao xuống thấp</option>
+			</select>
+	<input type="hidden" name="paged" value="1" />
+	</form>
+<ul class="products columns-3">
+<li class="product type-product post-308 status-publish first instock product_cat-phu-kien-di-dong product_cat-tai-nghe has-post-thumbnail shipping-taxable purchasable product-type-variable">
+	<a href="https://phshung.github.io/hungwordpress/sản%20phẩm/tai-nghe-bluetooth-true-wireless-beats-studio-buds/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://phshung.github.io/hungwordpress/wp-content/uploads/2021/09/bluetooth-true-wireless-beats-studio-buds-mj503-do-ava-600x600-1.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /><h2 class="woocommerce-loop-product__title">Tai nghe Bluetooth True Wireless Beats Studio Buds</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>3,990,000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
+</a><a href="https://phshung.github.io/hungwordpress/sản%20phẩm/tai-nghe-bluetooth-true-wireless-beats-studio-buds/" data-quantity="1" class="button product_type_variable add_to_cart_button" data-product_id="308" data-product_sku="" aria-label="Lựa chọn cho &ldquo;Tai nghe Bluetooth True Wireless Beats Studio Buds&rdquo;" rel="nofollow">Lựa chọn các tùy chọn</a></li>
+</ul>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

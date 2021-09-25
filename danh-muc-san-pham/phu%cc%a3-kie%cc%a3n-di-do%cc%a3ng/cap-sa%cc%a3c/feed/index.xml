@@ -8,7 +8,7 @@
 	>
 
 <channel>
-	<title>Cáp, sạc &#8211; PHHUNG NEWS</title>
+	<title>Cáp, sạc &#8211; PHSHUNG</title>
 	<atom:link href="http://localhost/myproject/wordpress/danh-muc-san-pham/phu%CC%A3-kie%CC%A3n-di-do%CC%A3ng/cap-sa%CC%A3c/feed/" rel="self" type="application/rss+xml" />
 	<link>https://phshung.github.io/hungwordpress</link>
 	<description></description>
@@ -27,9 +27,9 @@
 		<pubDate>Mon, 20 Sep 2021 00:46:38 +0000</pubDate>
 				<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[Hiển thị tất cả 3 kết quả Thứ tự mặc định Thứ tự theo mức độ phổ biến Thứ tự theo điểm đánh giá Mới nhất Thứ tự theo giá: thấp đến cao Thứ tự theo giá: cao xuống thấp Cáp Type C &#8211; Type C 1 m Apple Trắng 590,000&#160;&#8363; Thêm vào giỏ hàng [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div class="woocommerce columns-4 "><div class="woocommerce-notices-wrapper"></div><p class="woocommerce-result-count">
-	Hiển thị tất cả 3 kết quả</p>
+					<description><![CDATA[Hiển thị tất cả 5 kết quả Thứ tự mặc định Thứ tự theo mức độ phổ biến Thứ tự theo điểm đánh giá Mới nhất Thứ tự theo giá: thấp đến cao Thứ tự theo giá: cao xuống thấp Giảm giá! Adapter Sạc Anker PowerPort III 400,000&#160;&#8363; &#8211; 600,000&#160;&#8363; Lựa chọn các tùy chọn [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div class="woocommerce columns-3 "><div class="woocommerce-notices-wrapper"></div><p class="woocommerce-result-count">
+	Hiển thị tất cả 5 kết quả</p>
 <form class="woocommerce-ordering" method="get">
 	<select name="orderby" class="orderby" aria-label="Đơn hàng của cửa hàng">
 					<option value="menu_order"  selected='selected'>Thứ tự mặc định</option>
@@ -41,12 +41,24 @@
 			</select>
 	<input type="hidden" name="paged" value="1" />
 	</form>
-<ul class="products columns-4">
-<li class="product type-product post-239 status-publish first instock product_cat-cap-sac product_cat-phu-kien-di-dong has-post-thumbnail shipping-taxable purchasable product-type-simple">
+<ul class="products columns-3">
+<li class="product type-product post-259 status-publish first instock product_cat-cap-sac product_cat-phu-kien-di-dong has-post-thumbnail sale shipping-taxable purchasable product-type-variable">
+	<a href="https://phshung.github.io/hungwordpress/sản%20phẩm/adapter-sac-anker-powerport-iii/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+	<span class="onsale">Giảm giá!</span>
+	<img width="300" height="300" src="https://phshung.github.io/hungwordpress/wp-content/uploads/2021/09/230266-600x600-1.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /><h2 class="woocommerce-loop-product__title">Adapter Sạc Anker PowerPort III</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>400,000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span> &ndash; <span class="woocommerce-Price-amount amount"><bdi>600,000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
+</a><a href="https://phshung.github.io/hungwordpress/sản%20phẩm/adapter-sac-anker-powerport-iii/" data-quantity="1" class="button product_type_variable add_to_cart_button" data-product_id="259" data-product_sku="" aria-label="Lựa chọn cho &ldquo;Adapter Sạc Anker PowerPort III&rdquo;" rel="nofollow">Lựa chọn các tùy chọn</a></li>
+<li class="product type-product post-252 status-publish instock product_cat-cap-sac product_cat-phu-kien-di-dong has-post-thumbnail sale shipping-taxable purchasable product-type-variable">
+	<a href="https://phshung.github.io/hungwordpress/sản%20phẩm/cap-type-c-type-c-0-9m-anker-powerline/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+	<span class="onsale">Giảm giá!</span>
+	<img width="300" height="300" src="https://phshung.github.io/hungwordpress/wp-content/uploads/2021/09/cap-type-c-type-c-anker-powerline-iii-a8852-ava-600x600-1.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /><h2 class="woocommerce-loop-product__title">Cáp Type C &#8211; Type C 0.9m Anker PowerLine</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>300,000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span> &ndash; <span class="woocommerce-Price-amount amount"><bdi>350,000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
+</a><a href="https://phshung.github.io/hungwordpress/sản%20phẩm/cap-type-c-type-c-0-9m-anker-powerline/" data-quantity="1" class="button product_type_variable add_to_cart_button" data-product_id="252" data-product_sku="" aria-label="Lựa chọn cho &ldquo;Cáp Type C - Type C 0.9m Anker PowerLine&rdquo;" rel="nofollow">Lựa chọn các tùy chọn</a></li>
+<li class="product type-product post-239 status-publish last instock product_cat-cap-sac product_cat-phu-kien-di-dong has-post-thumbnail shipping-taxable purchasable product-type-simple">
 	<a href="https://phshung.github.io/hungwordpress/sản%20phẩm/cap-type-c-type-c-1-m-apple-trang/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://phshung.github.io/hungwordpress/wp-content/uploads/2021/09/C-to-c.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /><h2 class="woocommerce-loop-product__title">Cáp Type C &#8211; Type C 1 m Apple Trắng</h2>
 	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>590,000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
 </a><a href="https://phshung.github.io/hungwordpress/sản%20phẩm/cap-type-c-type-c-1-m-apple-trang/?add-to-cart=239" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="239" data-product_sku="" aria-label="Thêm &ldquo;Cáp Type C - Type C 1 m Apple Trắng&rdquo; vào giỏ hàng" rel="nofollow">Thêm vào giỏ hàng</a></li>
-<li class="product type-product post-234 status-publish instock product_cat-cap-sac product_cat-phu-kien-di-dong has-post-thumbnail shipping-taxable purchasable product-type-simple">
+<li class="product type-product post-234 status-publish first instock product_cat-cap-sac product_cat-phu-kien-di-dong has-post-thumbnail shipping-taxable purchasable product-type-simple">
 	<a href="https://phshung.github.io/hungwordpress/sản%20phẩm/cap-type-c-lightning-1m-apple-trang/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://phshung.github.io/hungwordpress/wp-content/uploads/2021/09/capclightning.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /><h2 class="woocommerce-loop-product__title">Cáp Type C- Lightning 1m Apple Trắng</h2>
 	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>590,000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
 </a><a href="https://phshung.github.io/hungwordpress/sản%20phẩm/cap-type-c-lightning-1m-apple-trang/?add-to-cart=234" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="234" data-product_sku="" aria-label="Thêm &ldquo;Cáp Type C- Lightning 1m Apple Trắng&rdquo; vào giỏ hàng" rel="nofollow">Thêm vào giỏ hàng</a></li>

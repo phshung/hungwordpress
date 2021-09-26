@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/danh-muc-san-pham/chua-phan-loai/feed/" rel="self" type="application/rss+xml" />
 	<link>https://phshung.github.io/hungwordpress</link>
 	<description></description>
-	<lastBuildDate>Mon, 20 Sep 2021 00:46:38 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 26 Sep 2021 10:58:04 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,39 +20,36 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 	<item>
-		<title>Chưa phân loại</title>
-		<link></link>
+		<title>Thẻ Mobifone 100.000</title>
+		<link>https://phshung.github.io/hungwordpress/sản%20phẩm/the%cc%89-mobifone-100-000/</link>
+					<comments>https://phshung.github.io/hungwordpress/sản%20phẩm/the%cc%89-mobifone-100-000/#respond</comments>
 		
 		<dc:creator><![CDATA[phamsihung]]></dc:creator>
-		<pubDate>Mon, 20 Sep 2021 00:46:38 +0000</pubDate>
-				<guid isPermaLink="false"></guid>
+		<pubDate>Sun, 26 Sep 2021 10:58:01 +0000</pubDate>
+				<guid isPermaLink="false">https://phshung.github.io/hungwordpress/?post_type=product&#038;p=321</guid>
 
-					<description><![CDATA[Hiển thị tất cả 2 kết quả Thứ tự mặc định Thứ tự theo mức độ phổ biến Thứ tự theo điểm đánh giá Mới nhất Thứ tự theo giá: thấp đến cao Thứ tự theo giá: cao xuống thấp Thẻ Mobifone 100.000 95,000&#160;&#8363; Thêm vào giỏ hàng Thẻ Vinaphone 100.000 95,000&#160;&#8363; Thêm vào giỏ [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div class="woocommerce columns-3 "><div class="woocommerce-notices-wrapper"></div><p class="woocommerce-result-count">
-	Hiển thị tất cả 2 kết quả</p>
-<form class="woocommerce-ordering" method="get">
-	<select name="orderby" class="orderby" aria-label="Đơn hàng của cửa hàng">
-					<option value="menu_order"  selected='selected'>Thứ tự mặc định</option>
-					<option value="popularity" >Thứ tự theo mức độ phổ biến</option>
-					<option value="rating" >Thứ tự theo điểm đánh giá</option>
-					<option value="date" >Mới nhất</option>
-					<option value="price" >Thứ tự theo giá: thấp đến cao</option>
-					<option value="price-desc" >Thứ tự theo giá: cao xuống thấp</option>
-			</select>
-	<input type="hidden" name="paged" value="1" />
-	</form>
-<ul class="products columns-3">
-<li class="product type-product post-321 status-publish first instock product_cat-chua-phan-loai product_tag-the has-post-thumbnail virtual purchasable product-type-simple">
-	<a href="https://phshung.github.io/hungwordpress/sản%20phẩm/the%cc%89-mobifone-100-000/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://phshung.github.io/hungwordpress/wp-content/uploads/2021/09/512x512.dd5a9dfbe7b2709028ef0dd198dcbd71.ai_.1.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /><h2 class="woocommerce-loop-product__title">Thẻ Mobifone 100.000</h2>
-	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>95,000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
-</a><a href="https://phshung.github.io/hungwordpress/sản%20phẩm/the%cc%89-mobifone-100-000/?add-to-cart=321" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="321" data-product_sku="" aria-label="Thêm &ldquo;Thẻ Mobifone 100.000&rdquo; vào giỏ hàng" rel="nofollow">Thêm vào giỏ hàng</a></li>
-<li class="product type-product post-319 status-publish instock product_cat-chua-phan-loai product_tag-the has-post-thumbnail virtual purchasable product-type-simple">
-	<a href="https://phshung.github.io/hungwordpress/sản%20phẩm/the%cc%89-vinaphone-100-000/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://phshung.github.io/hungwordpress/wp-content/uploads/2021/09/LOGO-VINANHONE-PNG.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /><h2 class="woocommerce-loop-product__title">Thẻ Vinaphone 100.000</h2>
-	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>95,000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
-</a><a href="https://phshung.github.io/hungwordpress/sản%20phẩm/the%cc%89-vinaphone-100-000/?add-to-cart=319" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="319" data-product_sku="" aria-label="Thêm &ldquo;Thẻ Vinaphone 100.000&rdquo; vào giỏ hàng" rel="nofollow">Thêm vào giỏ hàng</a></li>
-</ul>
-</div>]]></content:encoded>
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
 					
+					<wfw:commentRss>https://phshung.github.io/hungwordpress/sản%20phẩm/the%cc%89-mobifone-100-000/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Thẻ Vinaphone 100.000</title>
+		<link>https://phshung.github.io/hungwordpress/sản%20phẩm/the%cc%89-vinaphone-100-000/</link>
+					<comments>https://phshung.github.io/hungwordpress/sản%20phẩm/the%cc%89-vinaphone-100-000/#respond</comments>
+		
+		<dc:creator><![CDATA[phamsihung]]></dc:creator>
+		<pubDate>Sun, 26 Sep 2021 10:56:07 +0000</pubDate>
+				<guid isPermaLink="false">https://phshung.github.io/hungwordpress/?post_type=product&#038;p=319</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>https://phshung.github.io/hungwordpress/sản%20phẩm/the%cc%89-vinaphone-100-000/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
 		
 		
 			</item>

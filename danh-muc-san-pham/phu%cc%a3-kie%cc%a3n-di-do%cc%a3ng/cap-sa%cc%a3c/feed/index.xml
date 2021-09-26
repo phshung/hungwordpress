@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/danh-muc-san-pham/phu%CC%A3-kie%CC%A3n-di-do%CC%A3ng/cap-sa%CC%A3c/feed/" rel="self" type="application/rss+xml" />
 	<link>https://phshung.github.io/hungwordpress</link>
 	<description></description>
-	<lastBuildDate>Mon, 20 Sep 2021 00:46:38 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 26 Sep 2021 15:16:20 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,55 +20,168 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 	<item>
-		<title>Cáp, sạc</title>
-		<link></link>
+		<title>Adapter Sạc Anker PowerPort III</title>
+		<link>https://phshung.github.io/hungwordpress/sản%20phẩm/adapter-sac-anker-powerport-iii/</link>
+					<comments>https://phshung.github.io/hungwordpress/sản%20phẩm/adapter-sac-anker-powerport-iii/#respond</comments>
 		
 		<dc:creator><![CDATA[phamsihung]]></dc:creator>
-		<pubDate>Mon, 20 Sep 2021 00:46:38 +0000</pubDate>
-				<guid isPermaLink="false"></guid>
+		<pubDate>Sat, 25 Sep 2021 16:07:04 +0000</pubDate>
+				<guid isPermaLink="false">https://phshung.github.io/hungwordpress/?post_type=product&#038;p=259</guid>
 
-					<description><![CDATA[Hiển thị tất cả 5 kết quả Thứ tự mặc định Thứ tự theo mức độ phổ biến Thứ tự theo điểm đánh giá Mới nhất Thứ tự theo giá: thấp đến cao Thứ tự theo giá: cao xuống thấp Giảm giá! Adapter Sạc Anker PowerPort III 400,000&#160;&#8363; &#8211; 600,000&#160;&#8363; Lựa chọn các tùy chọn [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div class="woocommerce columns-3 "><div class="woocommerce-notices-wrapper"></div><p class="woocommerce-result-count">
-	Hiển thị tất cả 5 kết quả</p>
-<form class="woocommerce-ordering" method="get">
-	<select name="orderby" class="orderby" aria-label="Đơn hàng của cửa hàng">
-					<option value="menu_order"  selected='selected'>Thứ tự mặc định</option>
-					<option value="popularity" >Thứ tự theo mức độ phổ biến</option>
-					<option value="rating" >Thứ tự theo điểm đánh giá</option>
-					<option value="date" >Mới nhất</option>
-					<option value="price" >Thứ tự theo giá: thấp đến cao</option>
-					<option value="price-desc" >Thứ tự theo giá: cao xuống thấp</option>
-			</select>
-	<input type="hidden" name="paged" value="1" />
-	</form>
-<ul class="products columns-3">
-<li class="product type-product post-259 status-publish first instock product_cat-cap-sac product_cat-phu-kien-di-dong has-post-thumbnail sale shipping-taxable purchasable product-type-variable">
-	<a href="https://phshung.github.io/hungwordpress/sản%20phẩm/adapter-sac-anker-powerport-iii/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
-	<span class="onsale">Giảm giá!</span>
-	<img width="300" height="300" src="https://phshung.github.io/hungwordpress/wp-content/uploads/2021/09/230266-600x600-1.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /><h2 class="woocommerce-loop-product__title">Adapter Sạc Anker PowerPort III</h2>
-	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>400,000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span> &ndash; <span class="woocommerce-Price-amount amount"><bdi>600,000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
-</a><a href="https://phshung.github.io/hungwordpress/sản%20phẩm/adapter-sac-anker-powerport-iii/" data-quantity="1" class="button product_type_variable add_to_cart_button" data-product_id="259" data-product_sku="" aria-label="Lựa chọn cho &ldquo;Adapter Sạc Anker PowerPort III&rdquo;" rel="nofollow">Lựa chọn các tùy chọn</a></li>
-<li class="product type-product post-252 status-publish instock product_cat-cap-sac product_cat-phu-kien-di-dong has-post-thumbnail sale shipping-taxable purchasable product-type-variable">
-	<a href="https://phshung.github.io/hungwordpress/sản%20phẩm/cap-type-c-type-c-0-9m-anker-powerline/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
-	<span class="onsale">Giảm giá!</span>
-	<img width="300" height="300" src="https://phshung.github.io/hungwordpress/wp-content/uploads/2021/09/cap-type-c-type-c-anker-powerline-iii-a8852-ava-600x600-1.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /><h2 class="woocommerce-loop-product__title">Cáp Type C &#8211; Type C 0.9m Anker PowerLine</h2>
-	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>300,000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span> &ndash; <span class="woocommerce-Price-amount amount"><bdi>350,000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
-</a><a href="https://phshung.github.io/hungwordpress/sản%20phẩm/cap-type-c-type-c-0-9m-anker-powerline/" data-quantity="1" class="button product_type_variable add_to_cart_button" data-product_id="252" data-product_sku="" aria-label="Lựa chọn cho &ldquo;Cáp Type C - Type C 0.9m Anker PowerLine&rdquo;" rel="nofollow">Lựa chọn các tùy chọn</a></li>
-<li class="product type-product post-239 status-publish last instock product_cat-cap-sac product_cat-phu-kien-di-dong has-post-thumbnail shipping-taxable purchasable product-type-simple">
-	<a href="https://phshung.github.io/hungwordpress/sản%20phẩm/cap-type-c-type-c-1-m-apple-trang/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://phshung.github.io/hungwordpress/wp-content/uploads/2021/09/C-to-c.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /><h2 class="woocommerce-loop-product__title">Cáp Type C &#8211; Type C 1 m Apple Trắng</h2>
-	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>590,000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
-</a><a href="https://phshung.github.io/hungwordpress/sản%20phẩm/cap-type-c-type-c-1-m-apple-trang/?add-to-cart=239" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="239" data-product_sku="" aria-label="Thêm &ldquo;Cáp Type C - Type C 1 m Apple Trắng&rdquo; vào giỏ hàng" rel="nofollow">Thêm vào giỏ hàng</a></li>
-<li class="product type-product post-234 status-publish first instock product_cat-cap-sac product_cat-phu-kien-di-dong has-post-thumbnail shipping-taxable purchasable product-type-simple">
-	<a href="https://phshung.github.io/hungwordpress/sản%20phẩm/cap-type-c-lightning-1m-apple-trang/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://phshung.github.io/hungwordpress/wp-content/uploads/2021/09/capclightning.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /><h2 class="woocommerce-loop-product__title">Cáp Type C- Lightning 1m Apple Trắng</h2>
-	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>590,000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
-</a><a href="https://phshung.github.io/hungwordpress/sản%20phẩm/cap-type-c-lightning-1m-apple-trang/?add-to-cart=234" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="234" data-product_sku="" aria-label="Thêm &ldquo;Cáp Type C- Lightning 1m Apple Trắng&rdquo; vào giỏ hàng" rel="nofollow">Thêm vào giỏ hàng</a></li>
-<li class="product type-product post-228 status-publish instock product_cat-cap-sac product_cat-phu-kien-di-dong has-post-thumbnail shipping-taxable purchasable product-type-simple">
-	<a href="https://phshung.github.io/hungwordpress/sản%20phẩm/sac-type-c-20w-cho-iphone-ipad-trang/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://phshung.github.io/hungwordpress/wp-content/uploads/2021/09/sac20w.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /><h2 class="woocommerce-loop-product__title">Sạc Type C 20W cho iPhone/iPad Trắng</h2>
-	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>690,000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
-</a><a href="https://phshung.github.io/hungwordpress/sản%20phẩm/sac-type-c-20w-cho-iphone-ipad-trang/?add-to-cart=228" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="228" data-product_sku="MHJE3" aria-label="Thêm &ldquo;Sạc Type C 20W cho iPhone/iPad Trắng&rdquo; vào giỏ hàng" rel="nofollow">Thêm vào giỏ hàng</a></li>
-</ul>
-</div>]]></content:encoded>
+					<description><![CDATA[<ul>
+ 	<li>Thiết kế nhỏ, nhẹ, đẹp mắt, dễ mang theo.</li>
+ 	<li>Trang bị cổng sạc USB-C Power Delivery công suất 20W.</li>
+ 	<li>Cộng nghệ sạc nhanh Power Delivery trên cổng USB-C cho phép tương thích với nhiều thiết bị có điện áp khác nhau.</li>
+ 	<li>Sạc nhanh cho thiết bị iPhone 12, Galaxy S20,...</li>
+ 	<li>Tương thích hầu hết các thiết bị hỗ trợ cổng USB - C.</li>
+</ul>]]></description>
+										<content:encoded><![CDATA[<p><a title="Adapter Sạc Type C PD 20W Anker PowerPort III Nano A2633 Trắng" href="https://www.thegioididong.com/cap-dien-thoai/adapter-type-c-pd-20w-anker-powerport-nano-a2633" target="_blank" rel="noopener">Adapter Sạc Type C PD 20W Anker PowerPort III Nano A2633 trắng</a> với kích thước nhỏ nhắn và trọng lượng nhẹ tương đương 1 cục pin AAA, thật nhẹ nhàng để mang kèm cục sạc trong hành trang của bạn mọi nơi, mọi lúc.</p>
+<p><a class="preventdefault" href="https://www.thegioididong.com/images/58/230266/adapter-type-c-pd-20w-anker-powerport-nano-a2633-311120-061133.jpg"><img class=" ls-is-cached lazyloaded" title="Gọn đẹp - Adapter Sạc Type C PD 20W Anker PowerPort III Nano A2633 Trắng" src="https://cdn.tgdd.vn/Products/Images/58/230266/adapter-type-c-pd-20w-anker-powerport-nano-a2633-311120-061133.jpg" alt="Gọn đẹp - Adapter Sạc Type C PD 20W Anker PowerPort III Nano A2633 Trắng" data-src="https://cdn.tgdd.vn/Products/Images/58/230266/adapter-type-c-pd-20w-anker-powerport-nano-a2633-311120-061133.jpg" /></a></p>
+<h3>Tích hợp 1 cổng sạc USB-C với công suất 20W giúp <a title="Tham khảo thêm một số adapter có sạc nhanh đang bán tại Thế Giới Di Động" href="https://www.thegioididong.com/adapter-sac-sac-nhanh" target="_blank" rel="noopener">sạc nhanh</a> cho các thiết bị</h3>
+<p><a class="preventdefault" href="https://www.thegioididong.com/images/58/230266/adapter-type-c-pd-20w-anker-powerport-nano-a2633-311120-061145.jpg"><img class=" ls-is-cached lazyloaded" title="Cổng USB-C - Adapter Sạc Type C PD 20W Anker PowerPort III Nano A2633 Trắng" src="https://cdn.tgdd.vn/Products/Images/58/230266/adapter-type-c-pd-20w-anker-powerport-nano-a2633-311120-061145.jpg" alt="Cổng USB-C - Adapter Sạc Type C PD 20W Anker PowerPort III Nano A2633 Trắng" data-src="https://cdn.tgdd.vn/Products/Images/58/230266/adapter-type-c-pd-20w-anker-powerport-nano-a2633-311120-061145.jpg" /></a></p>
+<h3>Dòng sạc của <a title="Tham khảo các mẫu adapter Anker kinh doanh tại Thế Giới Di Động" href="https://www.thegioididong.com/adapter-sac-anker" target="_blank" rel="noopener">adapter Anker</a> được tối ưu hóa qua công nghệ sạc nhanh Power Delivery</h3>
+<p>Công nghệ cho phép adapter tương thích với nhiều thiết bị ở mức điện áp khác nhau Bạn hoàn toàn yên tâm sạc thiết bị của mình qua <a title="Adapter-củ sạc chính hãng, giá rẻ, bán tại Thế Giới Di Động" href="https://www.thegioididong.com/adapter-sac" target="_blank" rel="noopener">adapter</a> mà không lo ngại việc tổn hại lên độ bền của pin sạc.</p>
+<p>Xem thêm: <a title="Xem thêm công nghệ Power Delivery là gì" href="https://www.thegioididong.com/hoi-dap/cong-nghe-power-delivery-la-gi-1212331" target="_blank" rel="noopener">Công nghệ Power Delivery là gì?</a></p>
+<p><a class="preventdefault" href="https://www.thegioididong.com/images/58/230266/adapter-type-c-pd-20w-anker-powerport-nano-a2633-311120-061150.jpg"><img class=" ls-is-cached lazyloaded" title="Power Delivery - Adapter Sạc Type C PD 20W Anker PowerPort III Nano A2633 Trắng" src="https://cdn.tgdd.vn/Products/Images/58/230266/adapter-type-c-pd-20w-anker-powerport-nano-a2633-311120-061150.jpg" alt="Power Delivery - Adapter Sạc Type C PD 20W Anker PowerPort III Nano A2633 Trắng" data-src="https://cdn.tgdd.vn/Products/Images/58/230266/adapter-type-c-pd-20w-anker-powerport-nano-a2633-311120-061150.jpg" /></a></p>
+<h3>Tương thích với hầu hết thiết bị dùng cổng USB-C, sạc hiệu quả cho <a title="Tham khảo mẫu iPhone 12 có tại Thế Giới Di Động" href="https://www.thegioididong.com/dtdd/iphone-12-mini" target="_blank" rel="noopener">iPhone 12</a>, Galaxy S20,…</h3>
+<p>Bạn có thể dùng được Adapter sạc cho <a title="Điện thoại chính hãng, giá rẻ, bán tại Thế Giới Di Động" href="https://www.thegioididong.com/dtdd" target="_blank" rel="noopener">điện thoại</a>, <a title="Máy tính bảng chính hãng, giá rẻ, bán tại Thế Giới Di Động" href="https://www.thegioididong.com/may-tinh-bang" target="_blank" rel="noopener">máy tính bảng</a>, <a title="Laptop giá rẻ chính hãng bán tại Thế Giới Di Động" href="https://www.thegioididong.com/laptop" target="_blank" rel="noopener">laptop</a>, <a title="Pin sạc dự phòng giá rẻ chính hãng bán tại Thế Giới Di Động" href="https://www.thegioididong.com/sac-dtdd" target="_blank" rel="noopener">pin sạc dự phòng</a>,… thông qua các loại cáp phổ biến.</p>
+<p><a class="preventdefault" href="https://www.thegioididong.com/images/58/230266/adapter-type-c-pd-20w-anker-powerport-nano-a2633-311120-061154.jpg"><img class=" ls-is-cached lazyloaded" title="Tiện dụng - Adapter Sạc Type C PD 20W Anker PowerPort III Nano A2633 Trắng" src="https://cdn.tgdd.vn/Products/Images/58/230266/adapter-type-c-pd-20w-anker-powerport-nano-a2633-311120-061154.jpg" alt="Tiện dụng - Adapter Sạc Type C PD 20W Anker PowerPort III Nano A2633 Trắng" data-src="https://cdn.tgdd.vn/Products/Images/58/230266/adapter-type-c-pd-20w-anker-powerport-nano-a2633-311120-061154.jpg" /></a></p>
+<p>Tóm lại, với thiết bị cực kỳ nhỏ gọn như adapter Sạc Type C PD 20W Anker PowerPort III Nano A2633, bạn chẳng còn bận tâm với nguồn trợ sạc hoàn hảo cho phiên bản mới nhất iPhone 12 của Apple, sạc nhanh, sạc an toàn và bền bỉ với sản phẩm từ thương hiệu uy tín Anker.</p>
+]]></content:encoded>
 					
+					<wfw:commentRss>https://phshung.github.io/hungwordpress/sản%20phẩm/adapter-sac-anker-powerport-iii/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Cáp Type C &#8211; Type C 0.9m Anker PowerLine</title>
+		<link>https://phshung.github.io/hungwordpress/sản%20phẩm/cap-type-c-type-c-0-9m-anker-powerline/</link>
+					<comments>https://phshung.github.io/hungwordpress/sản%20phẩm/cap-type-c-type-c-0-9m-anker-powerline/#respond</comments>
+		
+		<dc:creator><![CDATA[phamsihung]]></dc:creator>
+		<pubDate>Sat, 25 Sep 2021 15:57:54 +0000</pubDate>
+				<guid isPermaLink="false">https://phshung.github.io/hungwordpress/?post_type=product&#038;p=252</guid>
+
+					<description><![CDATA[<ul>
+ 	<li>Trang bị 2 đầu Type-C dùng linh hoạt, không phân biệt đầu ra, đầu vào.</li>
+ 	<li>Thiết kế với chất liệu nylon bền bỉ, không bị gãy, rối, chịu lực kéo lên đến 80 kg.</li>
+ 	<li>Chiều dài dây 0.9 m, đầu dây cáp được bọc thép chắc chắn dùng tiện lợi, an toàn.</li>
+ 	<li>Tích hợp Power Delivery, điều chỉnh dòng sạc phù hợp nhất cho thiết bị (điện thoại, máy tính bảng, laptop,...).</li>
+ 	<li>Sạc nhanh chóng với mức công suất đến 12 W.</li>
+ 	<li>Truyền tải dữ liệu nhanh chóng giữa các thiết bị Type-C của bạn ở tốc độ lên đến 480 Mbps.</li>
+</ul>]]></description>
+										<content:encoded><![CDATA[<p><strong>Đầu ra 20V &#8211; 3A</strong>, đáp ứng nhiều mức sạc khác nhau, <a title="Cáp sạc Anker giá rẻ chính hãng bán tại Thế Giới Di Động" href="https://www.thegioididong.com/cap-dien-thoai-anker" target="_blank" rel="noopener">cáp sạc Anker</a> có thể <strong>sạc Samsung S10 lên 50% chỉ trong 30 phút </strong>khi kết hợp với adapter Power Delivery 18W.</p>
+<p><a class="preventdefault" href="https://www.thegioididong.com/images/58/236206/cap-type-c-type-c-anker-powerline-iii-a8852-1-2.jpg"><img class=" ls-is-cached lazyloaded" title="Cáp Type C - Type C Anker PowerLine III A8852 - Cho tốc độ sạc mạnh mẽ với công suất 60W" src="https://cdn.tgdd.vn/Products/Images/58/236206/cap-type-c-type-c-anker-powerline-iii-a8852-1-2.jpg" alt="Cáp Type C - Type C Anker PowerLine III A8852 - Cho tốc độ sạc mạnh mẽ với công suất 60W" data-src="https://cdn.tgdd.vn/Products/Images/58/236206/cap-type-c-type-c-anker-powerline-iii-a8852-1-2.jpg" /></a></p>
+<h3>Tích hợp đầu cáp Type C &#8211; Type C tương thích tốt với nhiều dòng máy</h3>
+<p>Anker PowerLine III A8852 dùng sạc, trao đổi dữ liệu hiệu quả,<strong> tương thích 100% với các <a title="Điện thoại giá rẻ chính hãng bán tại Thế Giới Di Động" href="https://www.thegioididong.com/dtdd" target="_blank" rel="noopener">điện thoại</a>, laptop, <a title="Tablet giá rẻ chính hãng bán tại Thế Giới Di Động" href="https://www.thegioididong.com/may-tinh-bang" target="_blank" rel="noopener">tablet</a></strong>: iPad Pro 2018, Galaxy Note 8, S10/S10+, Google Nexus 6P, Huawei Matebook, MacBook Pro 2019/MacBook Air 2019 và nhiều dòng thiết bị điện tử khác.</p>
+<p><strong>Tương thích nhưng có sự hạn chế về tốc độ sạc</strong> gồm dòng Google Nexus 5X, MacBook Pro 2016, Lumia 950, LG V20/G5/G6, Xiaomi 5, Huawei P30/P30 Pro.</p>
+<p><a class="preventdefault" href="https://www.thegioididong.com/images/58/236206/cap-type-c-type-c-anker-powerline-iii-a8852-3-2.jpg"><img class=" ls-is-cached lazyloaded" title="Cáp Type C - Type C Anker PowerLine III A8852 - Tích hợp đầu cáp Type C - Type C tương thích tốt với nhiều dòng máy" src="https://cdn.tgdd.vn/Products/Images/58/236206/cap-type-c-type-c-anker-powerline-iii-a8852-3-2.jpg" alt="Cáp Type C - Type C Anker PowerLine III A8852 - Tích hợp đầu cáp Type C - Type C tương thích tốt với nhiều dòng máy" data-src="https://cdn.tgdd.vn/Products/Images/58/236206/cap-type-c-type-c-anker-powerline-iii-a8852-3-2.jpg" /></a></p>
+<h3>Thiết kế gọn nhẹ, có thể chịu đến hơn 25.000 lần uốn cong</h3>
+<p><a title="Cáp sạc giá rẻ chính hãng bán tại Thế Giới Di Động" href="https://www.thegioididong.com/cap-dien-thoai" target="_blank" rel="noopener">Cáp sạc</a> có <strong>dây bền dẻo</strong>, dễ cuộn gọn khi cần, <strong>màu đen sang trọng</strong>, duy trì độ mới lâu. Dây cáp<strong> dài 0.9 m</strong> phối ghép các thiết bị dễ dàng, vừa đủ độ dài để kết nối điện thoại với máy tính để bàn thoải mái, không sợ thiếu hụt dây.</p>
+<p><a class="preventdefault" href="https://www.thegioididong.com/images/58/236206/cap-type-c-type-c-anker-powerline-iii-a8852-2-2.jpg"><img class=" ls-is-cached lazyloaded" title="Cáp Type C - Type C Anker PowerLine III A8852 - Thiết kế gọn nhẹ, có thể chịu đến hơn 25.000 lần uốn cong" src="https://cdn.tgdd.vn/Products/Images/58/236206/cap-type-c-type-c-anker-powerline-iii-a8852-2-2.jpg" alt="Cáp Type C - Type C Anker PowerLine III A8852 - Thiết kế gọn nhẹ, có thể chịu đến hơn 25.000 lần uốn cong" data-src="https://cdn.tgdd.vn/Products/Images/58/236206/cap-type-c-type-c-anker-powerline-iii-a8852-2-2.jpg" /></a></p>
+<h3>Sao chép dữ liệu nhanh chóng giữa các thiết bị</h3>
+<p>Khi <a title="Cáp Type C - Type C đang bán tại Thế Giới Di Động" href="https://www.thegioididong.com/cap-dien-thoai-type-c-type-c" target="_blank" rel="noopener">cáp Type C &#8211; Type C</a> có thể truyền phim ảnh, danh sách nhạc hoặc toàn bộ thư viện ảnh chỉ trong vài giây với <strong>tốc độ lên tới 480 Mbps</strong>.</p>
+<p><a class="preventdefault" href="https://www.thegioididong.com/images/58/236206/cap-type-c-type-c-anker-powerline-iii-a8852-4-1.jpg"><img class=" lazyloaded" title="Cáp Type C - Type C Anker PowerLine III A8852 - Sao chép dữ liệu mượt mà giữa các thiết bị" src="https://cdn.tgdd.vn/Products/Images/58/236206/cap-type-c-type-c-anker-powerline-iii-a8852-4-1.jpg" alt="Cáp Type C - Type C Anker PowerLine III A8852 - Sao chép dữ liệu mượt mà giữa các thiết bị" data-src="https://cdn.tgdd.vn/Products/Images/58/236206/cap-type-c-type-c-anker-powerline-iii-a8852-4-1.jpg" /></a></p>
+<p>Nhìn chung, với công suất ấn tượng, độ tương thích cao, thiết kế bền chắc nhỏ gọn và chức năng sạc, truyền dữ liệu tốt, <a title="cáp Type C - Type C Anker PowerLine III A8852" href="https://www.thegioididong.com/cap-dien-thoai/cap-type-c-type-c-anker-powerline-iii-a8852" target="_blank" rel="noopener">cáp Type C &#8211; Type C Anker PowerLine III A8852</a> hứa hẹn sẽ mang đến nhiều tiện ích cho cuộc sống của bạn</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://phshung.github.io/hungwordpress/sản%20phẩm/cap-type-c-type-c-0-9m-anker-powerline/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Cáp Type C &#8211; Type C 1 m Apple Trắng</title>
+		<link>https://phshung.github.io/hungwordpress/sản%20phẩm/cap-type-c-type-c-1-m-apple-trang/</link>
+					<comments>https://phshung.github.io/hungwordpress/sản%20phẩm/cap-type-c-type-c-1-m-apple-trang/#respond</comments>
+		
+		<dc:creator><![CDATA[phamsihung]]></dc:creator>
+		<pubDate>Sat, 25 Sep 2021 03:50:45 +0000</pubDate>
+				<guid isPermaLink="false">https://phshung.github.io/hungwordpress/?post_type=product&#038;p=239</guid>
+
+					<description><![CDATA[<ul>
+ 	<li>Tích hợp cùng lúc 2 cổng kết nối Type-C, để sạc hay truyền dữ liệu.</li>
+ 	<li>Tương thích với các dòng iPad và Macbook dùng cổng Type-C.</li>
+ 	<li>Kết nối dễ dàng với điện thoại, máy tính bảng, sạc dự phòng, tai nghe...</li>
+ 	<li>Sạc tốc độ cao 20 W, truyền dữ liệu an toàn.</li>
+</ul>]]></description>
+										<content:encoded><![CDATA[<h3>Thiết kế nhỏ gọn với màu trắng đẹp mắt, sang trọng</h3>
+<p><a title="Cáp Type-C - Type-C 1 m Apple MUF72 trắng" href="https://www.thegioididong.com/cap-dien-thoai/cap-type-c-type-c-1m-apple-muf72-trang" target="_blank" rel="noopener">Cáp Type-C &#8211; Type-C 1 m Apple MUF72 Trắng</a> có thiết kế hiện đại, nhỏ gọn, dễ dàng mang theo để sử dụng. <a title="Sạc, cáp có chiều dài 1 m giá tốt bán tại Thế Giới Di Động" href="https://www.thegioididong.com/cap-dien-thoai?g=tu-1-m-2-m" target="_blank" rel="noopener">Chiều dài 1 m</a>, <a title="Tham khảo cáp sạc Apple kinh doanh tại Thế Giới Di Động" href="https://www.thegioididong.com/cap-dien-thoai-apple" target="_blank" rel="noopener">cáp Apple</a> cho phép người dùng cuộn gọn và mang theo khi cần.</p>
+<p><a class="preventdefault" href="https://www.thegioididong.com/images/58/203760/cap-type-c-type-c-1m-apple-muf72-trang-add.jpg"><img class=" ls-is-cached lazyloaded" title="Cáp Type-C - Type-C 1 m Apple MUF72 Trắng thiết kế đơn giản" src="https://cdn.tgdd.vn/Products/Images/58/203760/cap-type-c-type-c-1m-apple-muf72-trang-add.jpg" alt="Cáp Type-C - Type-C 1 m Apple MUF72 Trắng thiết kế đơn giản" data-src="https://cdn.tgdd.vn/Products/Images/58/203760/cap-type-c-type-c-1m-apple-muf72-trang-add.jpg" /></a></p>
+<h3><a title="Sạc, cáp giá tốt bán tại Thế Giới Di Động" href="https://www.thegioididong.com/cap-dien-thoai" target="_blank" rel="noopener">Dây cáp</a> có thể dùng để sạc pin cho thiết bị, và sao chép dữ liệu giữa <a title="Tham khảo điện thoại kinh doanh tại Thế Giới Di Động" href="https://www.thegioididong.com/dtdd" target="_blank" rel="noopener">điện thoại</a> và <a title="Tham khảo laptop kinh doanh tại Thế Giới Di Động" href="https://www.thegioididong.com/laptop" target="_blank" rel="noopener">Laptop</a> có cổng Type-C</h3>
+<p><a class="preventdefault" href="https://www.thegioididong.com/images/58/203760/cap-type-c-type-c-1m-apple-muf72-trang-3.jpg"><img class=" ls-is-cached lazyloaded" title="Cáp Type-C - Type-C 1 m Apple MUF72 trắng dùng để sạc và chép dữ liệu" src="https://cdn.tgdd.vn/Products/Images/58/203760/cap-type-c-type-c-1m-apple-muf72-trang-3.jpg" alt="Cáp Type-C - Type-C 1 m Apple MUF72 Trắng dùng để sạc và chép dữ liệu" data-src="https://cdn.tgdd.vn/Products/Images/58/203760/cap-type-c-type-c-1m-apple-muf72-trang-3.jpg" /></a></p>
+<h3>Hai đầu dây là cổng <a title="Sạc, cáp Type-C giá tốt bán tại Thế Giới Di Động" href="https://www.thegioididong.com/cap-dien-thoai?g=type-c" target="_blank" rel="noopener">Type-C</a>, tương thích với các loại <a title="Tham khảo adapter sạc tại Thế Giới Di Động" href="https://www.thegioididong.com/cap-dien-thoai-adapter-cu-sac" target="_blank" rel="noopener">Adapter sạc</a> và một số dòng<a title="Tham khảo Macbook kinh doanh tại Thế Giới Di Động" href="https://www.thegioididong.com/laptop-apple-macbook" target="_blank" rel="noopener"> MacBook</a>, <a title="Tham khảo iPad kinh doanh tại Thế Giới Di Động" href="https://www.thegioididong.com/may-tinh-bang-apple-ipad" target="_blank" rel="noopener">iPad</a> hiện nay</h3>
+<p><a class="preventdefault" href="https://www.thegioididong.com/images/58/203760/cap-type-c-type-c-1m-apple-muf72-trang-fixx1.jpg"><img class=" ls-is-cached lazyloaded" title="Cáp Type-C - Type-C 1 m Apple MUF72 Trắng kết nối được với nhiều thiết bị khác nhau" src="https://cdn.tgdd.vn/Products/Images/58/203760/cap-type-c-type-c-1m-apple-muf72-trang-fixx1.jpg" alt="Cáp Type-C - Type-C 1 m Apple MUF72 Trắng kết nối được với nhiều thiết bị khác nhau" data-src="https://cdn.tgdd.vn/Products/Images/58/203760/cap-type-c-type-c-1m-apple-muf72-trang-fixx1.jpg" /></a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://phshung.github.io/hungwordpress/sản%20phẩm/cap-type-c-type-c-1-m-apple-trang/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Cáp Type C- Lightning 1m Apple Trắng</title>
+		<link>https://phshung.github.io/hungwordpress/sản%20phẩm/cap-type-c-lightning-1m-apple-trang/</link>
+					<comments>https://phshung.github.io/hungwordpress/sản%20phẩm/cap-type-c-lightning-1m-apple-trang/#respond</comments>
+		
+		<dc:creator><![CDATA[phamsihung]]></dc:creator>
+		<pubDate>Sat, 25 Sep 2021 03:24:58 +0000</pubDate>
+				<guid isPermaLink="false">https://phshung.github.io/hungwordpress/?post_type=product&#038;p=234</guid>
+
+					<description><![CDATA[<ul>
+ 	<li>Cáp 1 đầu kết nối Type C và 1 đầu Lightning, dùng để sạc và truyền dữ liệu.</li>
+ 	<li>Dây dài <strong>1 m</strong> tiện lợi khi sử dụng.</li>
+ 	<li>Sạc nhanh cho iPhone, iPad với Adapter 29 W, 30 W, 61 W, 87 W.</li>
+ 	<li>Sử dụng kèm được với nhiều Adapter hay pin dự phòng khác có cổng ra Type-C.</li>
+ 	<li>Kết nối, truyền tải dữ liệu tiện lợi giữa điện thoại với máy tính qua cổng Type-C hay Thunderbolt 3.</li>
+</ul>]]></description>
+										<content:encoded><![CDATA[<h3>Dễ dàng đồng bộ hóa dữ liệu và sạc giữa <a title="Điện thoại giá rẻ chính hãng bán tại Thế Giới Di Động" href="https://www.thegioididong.com/dtdd" target="_blank" rel="noopener">điện thoại</a>, <a title="Tablet giá rẻ chính hãng bán tại Thế Giới Di Động" href="https://www.thegioididong.com/may-tinh-bang" target="_blank" rel="noopener">tablet</a> và <a title="Laptop giá rẻ chính hãng bán tại Thế Giới Di Động" href="https://www.thegioididong.com/laptop" target="_blank" rel="noopener">laptop</a></h3>
+<p>Tương thích với <a title="Adapter sạc giá rẻ chính hãng bán tại Thế Giới Di Động" href="https://www.thegioididong.com/cap-dien-thoai-adapter-cu-sac" target="_blank" rel="noopener">Adapter sạc</a>, <a title="Pin sạc dự phòng giá rẻ chính hãng bán tại Thế Giới Di Động" href="https://www.thegioididong.com/sac-dtdd" target="_blank" rel="noopener">pin sạc dự phòng</a>, <a title="MacBook giá rẻ chính hãng bán tại Thế Giới Di Động" href="https://www.thegioididong.com/laptop-apple-macbook" target="_blank" rel="noopener">MacBook</a> hoặc iPad Pro có cổng USB – C hoặc cổng <a title="Thunderbolt 3 là gì?" href="https://www.thegioididong.com/hoi-dap/thunderbolt-3-usb-c-la-gi-959274" target="_blank" rel="noopener">Thunderbolt 3</a> (sử dụng dạng cổng USB – C).</p>
+<h3><a class="preventdefault" href="https://www.thegioididong.com/images/58/220088/cap-type-c-lightning-1m-apple-mx0k2-trang-7.jpg"><img class=" ls-is-cached lazyloaded" title="Kết nối qua USB - C hoặc Thunderbolt 3 - Cáp Type C- Lightning 1m Apple MX0K2 Trắng" src="https://cdn.tgdd.vn/Products/Images/58/220088/cap-type-c-lightning-1m-apple-mx0k2-trang-7.jpg" alt="Kết nối qua USB - C hoặc Thunderbolt 3 - Cáp Type C- Lightning 1m Apple MX0K2 Trắng" data-src="https://cdn.tgdd.vn/Products/Images/58/220088/cap-type-c-lightning-1m-apple-mx0k2-trang-7.jpg" /></a></h3>
+<h3>Có thể sử dụng <a title="Cáp sạc giá rẻ chính hãng bán tại Thế Giới Di Động" href="https://www.thegioididong.com/cap-dien-thoai" target="_blank" rel="noopener">cáp sạc</a> kết nối với nguồn sạc 29 W, 30 W, 61 W hoặc 87 W để có thể sử dụng <strong>tính năng sạc</strong> nhanh trên thiết bị của bạn</h3>
+<h3><a class="preventdefault" href="https://www.thegioididong.com/images/58/220088/cap-type-c-lightning-1m-apple-mx0k2-trang3.jpg"><img class=" ls-is-cached lazyloaded" title="Sạc nhanh cho các thiết bị được hỗ trợ - Cáp Type C- Lightning 1m Apple MX0K2 Trắng" src="https://cdn.tgdd.vn/Products/Images/58/220088/cap-type-c-lightning-1m-apple-mx0k2-trang3.jpg" alt="Sạc nhanh cho các thiết bị được hỗ trợ - Cáp Type C- Lightning 1m Apple MX0K2 Trắng" data-src="https://cdn.tgdd.vn/Products/Images/58/220088/cap-type-c-lightning-1m-apple-mx0k2-trang3.jpg" /></a></h3>
+<h3><a title="Cáp sạc Apple giá rẻ chính hãng bán tại Thế Giới Di Động" href="https://www.thegioididong.com/cap-dien-thoai-apple" target="_blank" rel="noopener">Cáp sạc Apple</a> dễ dàng kết nối với <a title="iPhone giá rẻ chính hãng bán tại Thế Giới Di Động" href="https://www.thegioididong.com/dtdd-apple-iphone" target="_blank" rel="noopener">iPhone</a>, <a title="iPad giá rẻ chính hãng bán tại Thế Giới Di Động" href="https://www.thegioididong.com/may-tinh-bang-apple-ipad" target="_blank" rel="noopener">iPad</a> hoặc iPod với <a title="Đầu sạc Lightning giá rẻ chính hãng bán tại Thế Giới Di Động" href="https://www.thegioididong.com/cap-dien-thoai-cap-iphone-lightning" target="_blank" rel="noopener">đầu sạc Lightning</a></h3>
+<h3><a class="preventdefault" href="https://www.thegioididong.com/images/58/220088/cap-type-c-lightning-1m-apple-mx0k2-trang2.jpg"><img class=" lazyloaded" title="Tương thích với các thiết bị của Apple - Sạc nhanh cho các thiết bị được hỗ trợ - Cáp Type C- Lightning 1m Apple MX0K2 Trắng" src="https://cdn.tgdd.vn/Products/Images/58/220088/cap-type-c-lightning-1m-apple-mx0k2-trang2.jpg" alt="Tương thích với các thiết bị của Apple - Sạc nhanh cho các thiết bị được hỗ trợ - Cáp Type C- Lightning 1m Apple MX0K2 Trắng" data-src="https://cdn.tgdd.vn/Products/Images/58/220088/cap-type-c-lightning-1m-apple-mx0k2-trang2.jpg" /></a></h3>
+<p>Cáp Type C- Lightning 1m Apple MX0K2 Trắng với 2 đầu Type &#8211; C và Lightning phù hợp cho các dòng sản phẩm của Apple, đặc biệt sản phẩm có hỗ trợ sạc nhanh giúp người dùng tiết kiệm thời gian.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://phshung.github.io/hungwordpress/sản%20phẩm/cap-type-c-lightning-1m-apple-trang/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Sạc Type C 20W cho iPhone/iPad Trắng</title>
+		<link>https://phshung.github.io/hungwordpress/sản%20phẩm/sac-type-c-20w-cho-iphone-ipad-trang/</link>
+					<comments>https://phshung.github.io/hungwordpress/sản%20phẩm/sac-type-c-20w-cho-iphone-ipad-trang/#respond</comments>
+		
+		<dc:creator><![CDATA[phamsihung]]></dc:creator>
+		<pubDate>Fri, 24 Sep 2021 17:59:32 +0000</pubDate>
+				<guid isPermaLink="false">https://phshung.github.io/hungwordpress/?post_type=product&#038;p=228</guid>
+
+					<description><![CDATA[<ul>
+ 	<li>Adapter sạc nhanh Type C dành cho iPhone, iPad.</li>
+ 	<li>Thiết kế nhỏ gọn, chuôi 2 chấu phổ biến.</li>
+ 	<li>Cổng ra Type-C, kết nối thêm dây cáp để sạc cho điện thoại, máy tính bảng.</li>
+ 	<li>Công suất 20W cho tốc độ sạc nhanh chóng.</li>
+</ul>]]></description>
+										<content:encoded><![CDATA[<h3>Thiết kế gọn đẹp, đầu cắm 2 chấu phổ biến</h3>
+<p>Kiểu dáng <a title="Xem thêm Adapter sạc đang kinh doanh tại Thế Giới Di Động" href="https://www.thegioididong.com/adapter-sac" target="_blank" rel="noopener">adapter sạc</a> đơn giản, trang nhã, chất lượng tốt cho độ bền cao. Thiết kế đầu cắm loại có 2 chấu quen thuộc, dùng được với các ổ điện ở mọi nơi từ nhà cho tới công sở, trường học, nhà hàng, khách sạn,&#8230;</p>
+<p><a class="preventdefault" href="https://www.thegioididong.com/images/58/230315/adapter-sac-type-c-20w-cho-iphone-ipad-apple-mhje3-264920-024901.jpg"><img class=" ls-is-cached lazyloaded" title="Adapter Sạc Type C 20W dùng cho iPhone/iPad Apple MHJE3 Trắng - Thiết kế gọn đẹp" src="https://cdn.tgdd.vn/Products/Images/58/230315/adapter-sac-type-c-20w-cho-iphone-ipad-apple-mhje3-264920-024901.jpg" alt="Adapter Sạc Type C 20W dùng cho iPhone/iPad Apple MHJE3 Trắng - Thiết kế gọn đẹp" data-src="https://cdn.tgdd.vn/Products/Images/58/230315/adapter-sac-type-c-20w-cho-iphone-ipad-apple-mhje3-264920-024901.jpg" /></a></p>
+<h3>Sạc nhanh qua cổng ra Type-C công suất mạnh mẽ 20W</h3>
+<p>Đặc biệt, tích hợp công nghệ Power Delivery hỗ trợ <a title="Tham khảo thêm một số adapter có sạc nhanh đang bán tại Thế Giới Di Động" href="https://www.thegioididong.com/adapter-sac-sac-nhanh" target="_blank" rel="noopener">sạc nhanh</a> ở nhiều dòng điện áp khác nhau, giúp thiết bị được nạp đầy năng lượng trong thời gian ngắn một cách an toàn, tối ưu nhất.</p>
+<p>Cổng Type-C khá thông dụng nên cho adapter làm việc được với nhiều loại <a title="Tham khảo cáp điện thoại kinh doanh tại Thế Giới Di Động" href="https://www.thegioididong.com/cap-dien-thoai" target="_blank" rel="noopener">cáp sạc</a> trên thị trường như <a title="Cáp Type-C - Type-C đang bán tại Thế Giới Di Động" href="https://www.thegioididong.com/cap-dien-thoai-type-c-type-c" target="_blank" rel="noopener">cáp Type-C &#8211; Type-C</a>, <a title="Cáp Type-C - Lightning đang bán tại Thế Giới Di Động" href="https://www.thegioididong.com/cap-dien-thoai-type-c-lightning" target="_blank" rel="noopener">cáp Type-C &#8211; Lightning</a>.</p>
+<p>Xem thêm: <a title="Xem thêm công nghệ Power Delivery là gì" href="https://www.thegioididong.com/hoi-dap/cong-nghe-power-delivery-la-gi-1212331" target="_blank" rel="noopener">Công nghệ Power Delivery là gì?</a></p>
+<p><a class="preventdefault" href="https://www.thegioididong.com/images/58/230315/adapter-sac-type-c-20w-cho-iphone-ipad-apple-mhje3-264920-024907.jpg"><img class=" ls-is-cached lazyloaded" title="Adapter Sạc Type C 20W dùng cho iPhone/iPad Apple MHJE3 Trắng - Sạc nhanh qua cổng ra Type-C công suất mạnh mẽ 20W" src="https://cdn.tgdd.vn/Products/Images/58/230315/adapter-sac-type-c-20w-cho-iphone-ipad-apple-mhje3-264920-024907.jpg" alt="Adapter Sạc Type C 20W dùng cho iPhone/iPad Apple MHJE3 Trắng - Sạc nhanh qua cổng ra Type-C công suất mạnh mẽ 20W" data-src="https://cdn.tgdd.vn/Products/Images/58/230315/adapter-sac-type-c-20w-cho-iphone-ipad-apple-mhje3-264920-024907.jpg" /></a></p>
+<h3>Apple MHJE3 phù hợp 100% với các dòng iPhone, iPad</h3>
+<p>Sử dụng <a title="Xem thêm Adapter sạc Apple đang kinh doanh tại Thế Giới Di Động" href="https://www.thegioididong.com/adapter-sac-apple" target="_blank" rel="noopener">Adapter sạc Apple</a> này để nạp pin cho iPhone, iPad của bạn không những cho khả năng kết nối cao, tăng tuổi thọ cho pin mà còn giúp bảo vệ người dùng và thiết bị hiệu quả.</p>
+<p><a class="preventdefault" href="https://www.thegioididong.com/images/58/230315/adapter-sac-type-c-20w-cho-iphone-ipad-apple-mhje3-264820-024854.jpg"><img class=" lazyloaded" title="Adapter Sạc Type C 20W dùng cho iPhone/iPad Apple MHJE3 Trắng - Apple MHJE3 phù hợp 100% với các dòng iPhone, iPad" src="https://cdn.tgdd.vn/Products/Images/58/230315/adapter-sac-type-c-20w-cho-iphone-ipad-apple-mhje3-264820-024854.jpg" alt="Adapter Sạc Type C 20W dùng cho iPhone/iPad Apple MHJE3 Trắng - Apple MHJE3 phù hợp 100% với các dòng iPhone, iPad" data-src="https://cdn.tgdd.vn/Products/Images/58/230315/adapter-sac-type-c-20w-cho-iphone-ipad-apple-mhje3-264820-024854.jpg" /></a></p>
+<p>Nếu hành trang thường nhật của bạn đang thiếu 1 chiếc adapter sạc nhanh chính hãng tin cậy của Apple thì mẫu <a title="adapter Sạc Type C cho 20W dùng cho iPhone/iPad Apple MHJE3 trắng" href="https://www.thegioididong.com/cap-dien-thoai/adapter-sac-type-c-20w-cho-iphone-ipad-apple-mhje3" target="_blank" rel="noopener">adapter Sạc Type C cho 20W dùng cho iPhone/iPad Apple MHJE3 trắng</a> chắc chắn là lựa chọn tuyệt vời, chọn mua ngay để trải nghiệm khả năng sạc ấn tượng của em nó nào!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://phshung.github.io/hungwordpress/sản%20phẩm/sac-type-c-20w-cho-iphone-ipad-trang/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
 		
 		
 			</item>

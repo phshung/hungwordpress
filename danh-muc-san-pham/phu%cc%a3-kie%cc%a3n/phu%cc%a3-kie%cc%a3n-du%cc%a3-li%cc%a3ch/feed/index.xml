@@ -8,7 +8,7 @@
 	>
 
 <channel>
-	<title>Phụ kiện dụ lịch &#8211; PHSHUNG</title>
+	<title>Phụ kiện du lịch &#8211; PHSHUNG</title>
 	<atom:link href="http://localhost/myproject/wordpress/danh-muc-san-pham/phu%CC%A3-kie%CC%A3n/phu%CC%A3-kie%CC%A3n-du%CC%A3-li%CC%A3ch/feed/" rel="self" type="application/rss+xml" />
 	<link>https://phshung.github.io/hungwordpress</link>
 	<description></description>
@@ -20,7 +20,7 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 	<item>
-		<title>Phụ kiện dụ lịch</title>
+		<title>Phụ kiện du lịch</title>
 		<link></link>
 		
 		<dc:creator><![CDATA[phamsihung]]></dc:creator>
@@ -54,10 +54,10 @@
 	<a href="https://phshung.github.io/hungwordpress/sản%20phẩm/kinh-chong-anh-sang-xanh-xiaomi-ts-fu006/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://phshung.github.io/hungwordpress/wp-content/uploads/2021/09/xiaomiviet.vn-kinh-chong-uv-anh-sang-xanh-xiaomi-mijia-hmj01ts-sao-chep-mat-kinh-chong-anh-sang-xanh-xiaomi-ts-fu006-3.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /><h2 class="woocommerce-loop-product__title">Kính chống ánh sáng xanh Xiaomi TS FU006</h2>
 	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>590,000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
 </a><a href="https://phshung.github.io/hungwordpress/sản%20phẩm/kinh-chong-anh-sang-xanh-xiaomi-ts-fu006/?add-to-cart=292" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="292" data-product_sku="" aria-label="Thêm &ldquo;Kính chống ánh sáng xanh Xiaomi TS FU006&rdquo; vào giỏ hàng" rel="nofollow">Thêm vào giỏ hàng</a></li>
-<li class="product type-product post-307 status-publish first instock product_cat-phu-kien product_cat-phu-kien-du-lich shipping-taxable product-type-grouped">
-	<a href="https://phshung.github.io/hungwordpress/sản%20phẩm/nhom-phu%cc%a3-kie%cc%a3n-du-li%cc%a3ch/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://phshung.github.io/hungwordpress/wp-content/uploads/woocommerce-placeholder.png" class="woocommerce-placeholder wp-post-image" alt="Nơi nhập dữ liệu" loading="lazy" /><h2 class="woocommerce-loop-product__title">Nhóm phụ kiện du lịch</h2>
+<li class="product type-product post-307 status-publish first instock product_cat-phu-kien product_cat-phu-kien-du-lich has-post-thumbnail shipping-taxable product-type-grouped">
+	<a href="https://phshung.github.io/hungwordpress/sản%20phẩm/nhom-phu%cc%a3-kie%cc%a3n-du-li%cc%a3ch/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="244" src="https://phshung.github.io/hungwordpress/wp-content/uploads/2021/09/about-img.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /><h2 class="woocommerce-loop-product__title">Phụ kiện du lịch</h2>
 	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>45,000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span> &ndash; <span class="woocommerce-Price-amount amount"><bdi>1,900,000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
-</a><a href="https://phshung.github.io/hungwordpress/sản%20phẩm/nhom-phu%cc%a3-kie%cc%a3n-du-li%cc%a3ch/" data-quantity="1" class="button product_type_grouped" data-product_id="307" data-product_sku="" aria-label="Xem sản phẩm trong &ldquo;Nhóm phụ kiện du lịch&rdquo; group" rel="nofollow">Xem sản phẩm</a></li>
+</a><a href="https://phshung.github.io/hungwordpress/sản%20phẩm/nhom-phu%cc%a3-kie%cc%a3n-du-li%cc%a3ch/" data-quantity="1" class="button product_type_grouped" data-product_id="307" data-product_sku="" aria-label="Xem sản phẩm trong &ldquo;Phụ kiện du lịch&rdquo; group" rel="nofollow">Xem sản phẩm</a></li>
 </ul>
 </div>]]></content:encoded>
 					

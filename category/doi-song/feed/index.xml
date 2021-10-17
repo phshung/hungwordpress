@@ -8,10 +8,10 @@
 	>
 
 <channel>
-	<title>Đời sống &#8211; PHSHUNG</title>
+	<title>Đời sống &#8211; PH Store</title>
 	<atom:link href="http://localhost/myproject/wordpress/category/doi-song/feed/" rel="self" type="application/rss+xml" />
 	<link>https://phshung.github.io/hungwordpress</link>
-	<description></description>
+	<description>Trực tuyến</description>
 	<lastBuildDate>Wed, 15 Sep 2021 01:51:57 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>

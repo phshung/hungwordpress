@@ -8,10 +8,10 @@
 	>
 
 <channel>
-	<title>PHSHUNG</title>
+	<title>PH Store</title>
 	<atom:link href="http://localhost/myproject/wordpress/feed/" rel="self" type="application/rss+xml" />
 	<link>https://phshung.github.io/hungwordpress</link>
-	<description></description>
+	<description>Trực tuyến</description>
 	<lastBuildDate>Fri, 15 Oct 2021 18:52:01 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>

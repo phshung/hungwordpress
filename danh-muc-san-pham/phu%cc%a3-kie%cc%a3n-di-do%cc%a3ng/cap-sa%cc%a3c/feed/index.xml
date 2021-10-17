@@ -8,10 +8,10 @@
 	>
 
 <channel>
-	<title>Cáp, sạc &#8211; PHSHUNG</title>
+	<title>Cáp, sạc &#8211; PH Store</title>
 	<atom:link href="http://localhost/myproject/wordpress/danh-muc-san-pham/phu%CC%A3-kie%CC%A3n-di-do%CC%A3ng/cap-sa%CC%A3c/feed/" rel="self" type="application/rss+xml" />
 	<link>https://phshung.github.io/hungwordpress</link>
-	<description></description>
+	<description>Trực tuyến</description>
 	<lastBuildDate>Fri, 01 Oct 2021 16:02:49 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>

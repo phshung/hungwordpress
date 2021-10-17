@@ -7,11 +7,11 @@
 	>
 <channel>
 	<title>
-	Bình luận cho PHSHUNG	</title>
+	Bình luận cho PH Store	</title>
 	<atom:link href="http://localhost/myproject/wordpress/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>https://phshung.github.io/hungwordpress</link>
-	<description></description>
-	<lastBuildDate>Fri, 15 Oct 2021 18:52:01 +0000</lastBuildDate>
+	<description>Trực tuyến</description>
+	<lastBuildDate>Sun, 17 Oct 2021 10:49:04 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
